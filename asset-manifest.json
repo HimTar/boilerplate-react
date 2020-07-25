@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/boilerplate-react/static/css/main.1df9dc05.chunk.css",
+    "main.js": "/boilerplate-react/static/js/main.9939e73c.chunk.js",
+    "main.js.map": "/boilerplate-react/static/js/main.9939e73c.chunk.js.map",
+    "runtime-main.js": "/boilerplate-react/static/js/runtime-main.dd8934de.js",
+    "runtime-main.js.map": "/boilerplate-react/static/js/runtime-main.dd8934de.js.map",
+    "static/js/2.9f0b3662.chunk.js": "/boilerplate-react/static/js/2.9f0b3662.chunk.js",
+    "static/js/2.9f0b3662.chunk.js.map": "/boilerplate-react/static/js/2.9f0b3662.chunk.js.map",
+    "index.html": "/boilerplate-react/index.html",
+    "precache-manifest.0a05119a2bf4f93b1cfff29dda6393de.js": "/boilerplate-react/precache-manifest.0a05119a2bf4f93b1cfff29dda6393de.js",
+    "service-worker.js": "/boilerplate-react/service-worker.js",
+    "static/css/main.1df9dc05.chunk.css.map": "/boilerplate-react/static/css/main.1df9dc05.chunk.css.map",
+    "static/js/2.9f0b3662.chunk.js.LICENSE.txt": "/boilerplate-react/static/js/2.9f0b3662.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/boilerplate-react/static/media/background.fe4ac80a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd8934de.js",
+    "static/js/2.9f0b3662.chunk.js",
+    "static/css/main.1df9dc05.chunk.css",
+    "static/js/main.9939e73c.chunk.js"
+  ]
+}
